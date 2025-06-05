@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2025-08-23",
+    "heure": "20:45",
+    "equipe_recoit": "PSG",
+    "equipe_deplace": "OM",
+    "buts_recoit": 5,
+    "buts_deplace": 0,
+    "etat": "terminé",
+    "remarques": "Match intense"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PSG",
+    "nom": "Paris Saint-Germain",
+    "ville": "Paris",
+    "stade": "Parc des Princes",
+    "entraineur": "Luis Enrique"
+  },
+  {
+    "id": "OM",
+    "nom": "Olympique de Marseille",
+    "ville": "Marseille",
+    "stade": "Stade Vélodrome",
+    "entraineur": "Roberto De Zerbi"
+  },
+  {
+    "id": "OL",
+    "nom": "Olympique Lyonnais",
+    "ville": "Lyon",
+    "stade": "Groupama Stadium",
+    "entraineur": "Paulo Fonseca"
+  }
+]
